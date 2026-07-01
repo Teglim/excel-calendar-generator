@@ -26,3 +26,8 @@ python calendar.py
 
 input.txt と setting.txt を編集して使用します。
 input.txt には年月とイベント、setting.txt には色設定を記入します。
+
+## Sample
+
+付属の `input.txt` と `setting.txt` をそのまま使用すると、以下のようなカレンダー画像が生成されます。
+![Sample calendar](2026_07_cal.png)
